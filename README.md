@@ -43,5 +43,7 @@ Your Flutter App should be updated with the message received.
 ## References
 
 https://firebase.google.com/docs/android/setup?authuser=0
+
 https://pub.dev/packages/firebase_messaging
+
 https://github.com/flutter/plugins/tree/master/packages/firebase_messaging
