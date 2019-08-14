@@ -1,6 +1,6 @@
-# Flutter-Azure Push
+# Flutter Firebase Push
 
-A simple Flutter App connected to Firebase that receives messages sent via Azure Notification Hub.
+A simple Flutter App connected to Firebase that receives messages.
 
 ## Getting Started
 
@@ -33,6 +33,8 @@ After the setup, run the app:
 Your Flutter App should be updated with the message received.
 
 ## Azure Notification Hub
+
+Possibility to send push via Azure Notification Hub.
 
 1. Creat a resource group and the notification hub ([Template](https://azure.microsoft.com/en-us/resources/templates/101-notification-hub/)).
 2. Copy the `Server Key` from the Firebase Console.
