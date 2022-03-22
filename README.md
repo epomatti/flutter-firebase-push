@@ -16,11 +16,3 @@ flutter run
 ```
 
 To lear how to setup your own Firebase project and interact with it check the [FlutterFire docs](https://firebase.flutter.dev/docs/overview).
-
-### Sources
-
-```
-https://firebase.google.com/docs/android/setup?authuser=0
-https://pub.dev/packages/firebase_messaging
-https://github.com/flutter/plugins/tree/master/packages/firebase_messaging
-```
